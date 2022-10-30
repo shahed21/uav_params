@@ -1,0 +1,11 @@
+{
+  "name": "uav_params",
+  "version": "1.0.0",
+  "description": "Unmanned Air Vehicle Parameters",
+  "main": "uav_params.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Shahed Rahim",
+  "license": "ISC"
+}
