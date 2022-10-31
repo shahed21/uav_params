@@ -6,6 +6,19 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "Shahed Rahim",
-  "license": "ISC"
+  "author": "Shahed Rahim <shahed21@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shahed21/uav_params.git"
+  },
+  "keywords": [
+    "UAV",
+    "Airframes",
+    "Coefficients"
+  ],
+  "bugs": {
+    "url": "https://github.com/shahed21/uav_params/issues"
+  },
+  "homepage": "https://github.com/shahed21/uav_params#readme"
 }
