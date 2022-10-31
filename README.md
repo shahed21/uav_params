@@ -1,5 +1,5 @@
 # uav_params
-This package defines aeronatuical constants for different common UAV airframes.
+This package defines aerodynamic constants for different common UAV airframes.
 
 ## Airframes
 1. Zagi
