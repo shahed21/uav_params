@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "Shahed Rahim <shahed21@gmail.com>",
+  "author": "Shahed Rahim",
   "license": "ISC",
   "repository": {
     "type": "git",
