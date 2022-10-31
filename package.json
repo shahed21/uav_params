@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/shahed21/uav_params/issues"
   },
-  "homepage": "https://github.com/shahed21/uav_params#readme"
+  "homepage": "https://github.com/shahed21/uav_params#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
 }
