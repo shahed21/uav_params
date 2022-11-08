@@ -1,6 +1,6 @@
 {
   "name": "@shahed21/uav_params",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unmanned Air Vehicle Parameters",
   "main": "uav_params.js",
   "scripts": {

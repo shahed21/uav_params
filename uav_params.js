@@ -51,7 +51,9 @@ const uav_param_config =
                 'n_r':-0.00434,       //First Order Yaw Moment Coefficient of Yaw Rate r
                 'Y_delta_a':0,        //First Order Lateral Force Coefficient of aeleron defelction delta_a
                 'l_delta_a':0.1682,   //First Order Roll Moment Coefficient of aeleron defelction delta_a
-                'n_delta_a':-0.00328  //First Order Yaw Moment Coefficient of aeleron defelction delta_a
+                'n_delta_a':-0.00328, //First Order Yaw Moment Coefficient of aeleron defelction delta_a
+                'Y_delta_r':0,        //First Order Lateral Force Coefficient of rudder defelction delta_r
+                'l_delta_r':0         //First Order Roll Moment Coefficient of rudder defelction delta_r
             },
             'M':50,                   //Sigmoid Function Transition Rate Coefficient (Positive) of Angle of Attack
             'alpha_0':0.4712,         //Sigmoid Function Cut-off Angle of Attack Coefficient(Positive)
