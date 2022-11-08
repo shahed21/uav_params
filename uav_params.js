@@ -4,7 +4,8 @@ const uav_param_config =
     [
         {
             'name': 'Zagi',
-            'mass': 1.56,
+            'mass': 1.56,             //Kg
+            'V_s': 11.73565,          //m/s
             'J_vector':               //vector of elements in the Intertial Matrix
             {
                 'x':0.1147,           //J_x or J_xx (Kg m^2)
@@ -58,7 +59,8 @@ const uav_param_config =
         },
         {
             'name': 'Aerosonode',
-            'mass': 13.5,
+            'mass': 13.5,             // kg
+            'V_s': 18.8951,           // m/s
             'J_vector':               //vector of elements in the Intertial Matrix
             {
                 'x':0.8244,           //J_x or J_xx (Kg m^2)

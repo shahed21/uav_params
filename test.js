@@ -167,3 +167,5 @@ assert.deepStrictEqual(uav_params.uav_param_config.uavs[1].C_arr.l_delta_a, (0.0
 // n_delta_a - First Order Yaw Moment Coefficient of aeleron defelction delta_a
 assert.deepStrictEqual(uav_params.uav_param_config.uavs[0].C_arr.n_delta_a, (-0.00328));
 assert.deepStrictEqual(uav_params.uav_param_config.uavs[1].C_arr.n_delta_a, (0.06));
+
+console.log('Passed all tests.');
